@@ -66,4 +66,4 @@ The objective of this task is to analyze the effectiveness of different **spatia
 * **Google Colab:** Image upload and execution environment
 
 ---
-a main Task 6 ke liye banau?
+
